@@ -6,8 +6,8 @@ This app is created for to understand how to create Todo app.
 ## Setting
 Preparation
 ```bash
-git clone https://github.com/kenmori/React-Sample.git
-cd React-Sample
+git clone https://github.com/teslasand0987/React_first_Sample.git
+cd React_first_Sample
 npm install
 ```
 Start
