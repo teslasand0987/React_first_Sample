@@ -2,7 +2,7 @@
 This app is created for to understand how to create Todo app.
 
 ## Function
-
+![Image 1](images/image1.gif)
 ## Setting
 Preparation
 ```bash
